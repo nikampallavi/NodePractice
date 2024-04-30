@@ -1,0 +1,2 @@
+this is line one in textfile.
+This is line second  in textfile.
